@@ -1,7 +1,30 @@
 aid: granzabio
-name: Granzabio
-description: Granzabio is a company surfaced as a portfolio company of felicis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/granzabio.png
+name: Granza Bio
+description: >-
+  Granza Bio is an early-stage biotechnology company reprogramming immunity for
+  target-specific medicines. Founded in 2024 by Dr. Ashwin Nandakumar, Dr. Ashwin
+  Jainarayanan, and Prof. Michael Dustin, the company builds on the discovery of
+  "attack particles" — killing entities released by cytotoxic immune cells,
+  characterized in Prof. Dustin's laboratory at the University of Oxford. Granza
+  Bio is developing an engineered delivery-shell platform that directs therapeutic
+  cargo to specific tissues, with the goal of advancing treatments for cancers,
+  autoimmune disorders, and infections. The company raised $7.14M in seed funding
+  co-led by Refactor Capital and Felicis, with participation from Pioneer Fund and
+  Y Combinator. It is a research-stage life-sciences company and does not currently
+  publish a public developer API, SDK, or developer portal; this profile is
+  maintained in the API Evangelist network as a company record.
 url: https://raw.githubusercontent.com/api-evangelist/granzabio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +34,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Biotechnology
+- Immunotherapy
+- Drug Delivery
+- Life Sciences
+- Oncology
+- Therapeutics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,15 @@ maintainers:
 common:
 - type: Website
   url: https://granzabio.com
+- type: Blog
+  name: Newsroom
+  url: https://www.granzabio.com/newsroom
+- type: PrivacyPolicy
+  url: https://www.granzabio.com/privacy-policy
+- type: DomainSecurity
+  url: security/granzabio-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
