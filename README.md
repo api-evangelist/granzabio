@@ -1,4 +1,4 @@
-# Granzabio
+# Granza Bio
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Granzabio is a company surfaced as a portfolio company of felicis and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Granza Bio is an early-stage biotechnology company reprogramming immunity for target-specific medicines. Founded in 2024 by Dr. Ashwin Nandakumar, Dr. Ashwin Jainarayanan, and Prof. Michael Dustin, the company builds on the discovery of "attack particles" — killing entities released by cytotoxic immune cells, characterized in Prof. Dustin's laboratory at the University of Oxford. Granza Bio is developing an engineered delivery-shell platform that directs therapeutic cargo to specific tissues, with the goal of advancing treatments for cancers, autoimmune disorders, and infections. The company raised $7.14M in seed funding co-led by Refactor Capital and Felicis, with participation from Pioneer Fund and Y Combinator. It is a research-stage life-sciences company and does not currently publish a public developer API, SDK, or developer portal; this profile is maintained in the API Evangelist network as a company record.
 
-Backed by: felicis — https://granzabio.com
+**Areas:** Company · Biotechnology · Immunotherapy · Drug Delivery · Life Sciences · Oncology · Therapeutics
+
+## Granza Bio on APIs.io
+
+Everything profiled for Granza Bio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/granzabio/](https://apis.io/providers/granzabio/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Granzabio Domain Security](https://apis.io/security/granzabio/granzabio-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://granzabio.com)
+- [Blog](https://www.granzabio.com/newsroom)
+- [Privacy policy](https://www.granzabio.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 6.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/granzabio/](https://apis.io/providers/granzabio/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Granza Bio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/granzabio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
